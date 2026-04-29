@@ -1,3 +1,4 @@
+https://taufiqmrahman.github.io/ 
 # 💫 About Me:
 😎I'm Currently a CSE student at Brac University.<br>💻I have interest in ML, AI and Computer Architecture.<br>🤓Looking for people who are interested in writing research papers.<br>🙌Feel free to check my socials out.<br><br>❗❗Did you know, the first computer virus, called Brain, was created in 1986 by two brothers in Pakistan to prevent customers from copying their software without permission.
 
