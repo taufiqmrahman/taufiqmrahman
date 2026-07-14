@@ -66,18 +66,28 @@
 
 <br>
 
-### 📈 GitHub Visualization
+### ⚡ What I'm Currently Up To
 
 <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taufiqmrahman&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Taufiq's Activity Graph" width="100%"/>
-  
-  <br>
 
-  <img src="https://raw.githubusercontent.com/taufiqmrahman/taufiqmrahman/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+  <!-- Dynamic Typing Text -->
+  <a href="https://taufiqmrahman.github.io/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Interactive+WebGL+Portfolios;Developing+Full-Stack+Java%2FTS+Systems;Researching+AI+%26+Cybersecurity;Reviewing+Films+on+Letterboxd" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <!-- Live Spotify Now Playing Card -->
+  <a href="https://open.spotify.com/user/31wwhp4rhueq36bjptexk4fy2ndi?si=a6cc2f64938f49f3">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wwhp4rhueq36bjptexk4fy2ndi&cover_image=true&theme=novathem&show_offline=true&background_color=0d1117&interchange=true" alt="Spotify Now Playing" />
+  </a>
 
 </div>
 
+---
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 ---
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
