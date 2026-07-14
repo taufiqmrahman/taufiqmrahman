@@ -80,8 +80,9 @@
 
   <!-- Live Spotify Now Playing Card -->
   <a href="https://open.spotify.com/user/31wwhp4rhueq36bjptexk4fy2ndi?si=a6cc2f64938f49f3">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wwhp4rhueq36bjptexk4fy2ndi&cover_image=true&theme=novathem&show_offline=true&background_color=0d1117&interchange=true" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+    </a>
+ 
 
 </div>
 
