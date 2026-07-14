@@ -71,8 +71,9 @@
 <div align="center">
 
   <!-- Dynamic Typing Text -->
+ <!-- Dynamic Typing Text -->
   <a href="https://taufiqmrahman.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Interactive+WebGL+Portfolios;Developing+Full-Stack+Java%2FTS+Systems;Researching+AI+%26+Cybersecurity;Reviewing+Films+on+Letterboxd" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Listening+to+songs;Reviewing+movies+on+Letterboxd;Surviving+academic+pressure;Coding+through+the+chaos" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -89,6 +90,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 ---
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+
