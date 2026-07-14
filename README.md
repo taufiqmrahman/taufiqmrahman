@@ -71,18 +71,16 @@
 <div align="center">
 
   <!-- Dynamic Typing Text -->
- <!-- Dynamic Typing Text -->
   <a href="https://taufiqmrahman.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Listening+to+songs;Reviewing+movies+on+Letterboxd;Surviving+academic+pressure;Coding+through+the+chaos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Listening+to+songs;Reviewing+movies+on+Letterboxd;Surviving+academic+pressure;Coding+through+the+chaos;I+am+Vengeance.+I+am+the+Night." alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- Live Spotify Now Playing Card -->
-  <a href="https://open.spotify.com/user/31wwhp4rhueq36bjptexk4fy2ndi?si=a6cc2f64938f49f3">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-    </a>
- 
+  <!-- The Dark Knight / Letterboxd Link -->
+  <a href="https://letterboxd.com/DarkKnight_exe/">
+    <img src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" alt="The Dark Knight" width="450" style="border-radius: 10px;" />
+  </a>
 
 </div>
 
@@ -90,5 +88,5 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
----
+
 
