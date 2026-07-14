@@ -3,6 +3,9 @@
   # 💫 Hi there, I'm Taufiq!
   
   [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://taufiqmrahman.github.io/)
+  <br>
+  <sub>👆 Click!</sub>
+  <br><br>
 
   *Currently a CSE student at BRAC University building interactive systems and intelligent models.*
 
@@ -78,9 +81,12 @@
   <br><br>
 
   <!-- The Dark Knight / Letterboxd Link -->
+  <!-- The Dark Knight / Letterboxd Link -->
   <a href="https://letterboxd.com/DarkKnight_exe/">
     <img src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" alt="The Dark Knight" width="450" style="border-radius: 10px;" />
   </a>
+  <br>
+  <sub>🦇 Click!</sub>
 
 </div>
 
