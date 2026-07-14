@@ -15,9 +15,8 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I have a strong interest in **ML, AI, Computer Architecture**, and building custom **Interactive Web Portfolios** with WebGL/Three.js.
-- 🚀 Recently built a **Hospital Management System** featuring a Java-based backend and TypeScript frontend.
-- 🤓 Looking for collaborators interested in writing research papers or diving into real-world cybersecurity analysis.
+- 💻 I have a strong interest in **ML, AI, Computer Architecture**.
+- 🤓 Looking for collaborators interested in writing research papers.
 - ❗ **Fun Fact:** The first computer virus, called *Brain*, was created in 1986 by two brothers in Pakistan to prevent customers from copying their software without permission!
 
 <br>
